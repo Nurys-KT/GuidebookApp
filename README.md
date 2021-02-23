@@ -1,5 +1,5 @@
 # GuidebookApp
  
-This is Guidebook App For iOS. It's just swift tutorial.
-all assets from CWC+
+This is Guidebook App For iOS. It's just swift tutorial.<br/>
+all assets from CWC+<br/>
 Description For Code : https://hello-developer.tistory.com/59
